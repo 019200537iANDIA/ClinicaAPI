@@ -1,4 +1,5 @@
-﻿using ClinicaAPI.Models;
+﻿using Xunit;
+using ClinicaAPI.Models;
 
 namespace ClinicaAPI.Tests
 {
