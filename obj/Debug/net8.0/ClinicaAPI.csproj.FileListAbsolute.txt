@@ -99,10 +99,11 @@ C:\Users\Usuario\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\staticwebas
 C:\Users\Usuario\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Usuario\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\Usuario\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\swae.build.ex.cache
-C:\Users\Usuario\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Usuario\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\ClinicaAPI.csproj.Up2Date
 C:\Users\Usuario\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\ClinicaAPI.dll
 C:\Users\Usuario\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\refint\ClinicaAPI.dll
 C:\Users\Usuario\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\ClinicaAPI.pdb
 C:\Users\Usuario\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\ClinicaAPI.genruntimeconfig.cache
 C:\Users\Usuario\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\ref\ClinicaAPI.dll
+C:\Users\Usuario\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\ClinicaAPI.sourcelink.json
+C:\Users\Usuario\source\repos\ClinicaAPI\ClinicaAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
