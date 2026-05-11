@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ClinicaAPI.Controllers.PacientesController",
+    "Method": "Get",
+    "RelativePath": "api/Pacientes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClinicaAPI.Controllers.PacientesController",
+    "Method": "Post",
+    "RelativePath": "api/Pacientes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "paciente",
+        "Type": "ClinicaAPI.Models.Paciente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
